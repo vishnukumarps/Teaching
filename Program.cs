@@ -36,7 +36,10 @@ namespace Teaching
             public void AddTwoNum(int x, int y)
             {
                 Console.WriteLine("Sum =" + (x + y));
-            }// with pram no return 
+            }
+            
+            
+            // l;''l'; with pram no return 
 
             public int Sub(int x, int y)
             {
