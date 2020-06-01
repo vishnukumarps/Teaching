@@ -8,4 +8,8 @@
     <StartupObject>Teaching.Array</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Calc\" />
+  </ItemGroup>
+
 </Project>
